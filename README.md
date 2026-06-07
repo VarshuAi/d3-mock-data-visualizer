@@ -38,7 +38,7 @@ version: 1.0
 type: Repository
 author: VarshuAi
 description: >
-  Beautiful visual analytics displaying node vectors.
+  name: d3-mock-data-visualizer version: 1.0 type: Repository author: VarshuAi description: >   Beautiful visual analytics displaying node vectors. primary_tech: CSS
 primary_tech: CSS
 ```
 
